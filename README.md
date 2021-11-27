@@ -1,2 +1,2 @@
 # priandwa.github.io
-Deneme amaçlı açmış olduğum site.
+Merhaba! HTML ve CSS öğreniyorum. Bunun için açtığım priandwa.github.io sitesine göz atabilirsin.
